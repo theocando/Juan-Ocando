@@ -1,7 +1,8 @@
+/*Juan Ocando 13-10991 pregunta 2*/
+
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-enum{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z};
+#include <string.h
 
 int main()
 {
